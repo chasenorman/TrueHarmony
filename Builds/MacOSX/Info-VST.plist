@@ -25,31 +25,5 @@
     <string></string>
     <key>NSHighResolutionCapable</key>
     <true/>
-    <key>AudioComponents</key>
-    <array>
-      <dict>
-        <key>name</key>
-        <string>Chase &amp; Varun: TrueHarmony</string>
-        <key>description</key>
-        <string>TrueHarmony</string>
-        <key>factoryFunction</key>
-        <string>TrueHarmonyAUFactory</string>
-        <key>manufacturer</key>
-        <string>Manu</string>
-        <key>type</key>
-        <string>aumf</string>
-        <key>subtype</key>
-        <string>Dwfp</string>
-        <key>version</key>
-        <integer>65536</integer>
-        <key>resourceUsage</key>
-        <dict>
-          <key>network.client</key>
-          <true/>
-          <key>temporary-exception.files.all.read-write</key>
-          <true/>
-        </dict>
-      </dict>
-    </array>
   </dict>
 </plist>

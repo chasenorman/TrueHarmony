@@ -2,8 +2,8 @@
 
 <JUCERPROJECT id="dwfpnS" name="TrueHarmony" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginCharacteristicsValue="pluginIsMidiEffectPlugin,pluginProducesMidiOut,pluginWantsMidiIn"
-              pluginManufacturer="Chase &amp; Varun">
+              pluginManufacturer="Chase &amp; Varun" pluginVST3Category="Fx"
+              pluginFormats="buildVST" pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn">
   <MAINGROUP id="OZssQ2" name="TrueHarmony">
     <GROUP id="{704D0FD0-C634-C5F7-AB3D-28A9DD5CF5DC}" name="Source">
       <FILE id="u5eGmS" name="PluginProcessor.cpp" compile="1" resource="0"
